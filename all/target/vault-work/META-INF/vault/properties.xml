@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>EY CMS PROJECT - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2022-08-13T04:00:07.808Z</entry>
+<entry key="groupId">com.ey.cms.aem</entry>
+<entry key="name">ey-cms.all</entry>
+<entry key="description">All content package for EY CMS PROJECT</entry>
+<entry key="artifactId">ey-cms.all</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.ey.cms.aem</entry>
+</properties>

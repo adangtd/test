@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ey-cms" mode="merge"/>
+    <filter root="/content/ey-cms" mode="merge"/>
+    <filter root="/content/dam/ey-cms/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/ey-cms" mode="merge"/>
+</workspaceFilter>

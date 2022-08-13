@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/ey-cms",
+        "create path (nt:unstructured) /content/dam/ey-cms/jcr:content",
+        "set properties on /content/dam/ey-cms/jcr:content\n  set cq:conf{String} to /conf/ey-cms\n  set jcr:title{String} to \"EY CMS PROJECT\"\nend"
+    ]
+}

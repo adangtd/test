@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>EY CMS PROJECT - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.ey.cms.aem:ey-cms.ui.apps:0.0.1-SNAPSHOT=maven:com.ey.cms.aem:ey-cms.ui.apps:0.0.1-SNAPSHOT:zip</entry>
+<entry key="created">2022-08-13T04:00:10.692Z</entry>
+<entry key="groupId">com.ey.cms.aem</entry>
+<entry key="description">UI content package for EY CMS PROJECT</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.ey.cms.aem:ey-cms.ui.apps:0.0.1-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">ey-cms.ui.content</entry>
+<entry key="artifactId">ey-cms.ui.content</entry>
+<entry key="group">com.ey.cms.aem</entry>
+</properties>

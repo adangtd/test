@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: EY CMS PROJECT - UI apps
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.ey.cms.aem:ey-cms.ui.apps:0.0.1-SNAPSHOT
+Content-Package-Description: UI apps package for EY CMS PROJECT
+Content-Package-Roots: /apps/ey-cms/clientlibs,/apps/ey-cms/components,/
+ apps/ey-cms/i18n
+
